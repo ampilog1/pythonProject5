@@ -54,3 +54,4 @@ while beginning == 'да':
     print('процент ошибок: ', j / quantity_question * 100)
 
     beginning = input('Если хотите повторить, введите "да": ')
+#  привет
